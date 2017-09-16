@@ -36,6 +36,13 @@
         <action>ActivateWindow(MyPVR)</action>
     </shortcut>
     <shortcut>
+        <label>5</label>
+        <label2>Common Shortcut</label2>
+        <defaultID>games</defaultID>
+        <icon>special://skin/extras/icons/xbox.png</icon>
+        <action>ActivateWindow(Games)</action>
+    </shortcut>
+    <shortcut>
         <label>1</label>
         <label2>Common Shortcut</label2>
         <defaultID>pictures</defaultID>
